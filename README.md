@@ -1,6 +1,6 @@
 # WDMSIM.py - Routing and Spectrum Assignment simulation for WDM networks
 
-Author: Antonio Forster <aforster@gmail.com>
+Author: Antonio Forster <aforster@gmail.com>  
 License: GPL v2 
 
 
@@ -55,9 +55,9 @@ aforster@wdmsim: $
 
 # Available RSA Algorithms
 
-FirstFit: Standard FirstFit RSA algorithm
-AltFirstFit: FistFit using alternate Slot sequencing
-BestFrag: Experimental Fragmentation-aware algorithm that uses External Fragmentation Metrics as key criteron for allocation definition.
+FirstFit: Standard FirstFit RSA algorithm  
+AltFirstFit: FistFit using alternate Slot sequencing  
+BestFrag: Experimental Fragmentation-aware algorithm that uses External Fragmentation Metrics as key criteron for allocation definition.  
 AltBestFrag: Experimental Fragmentation-aware algorithm that uses External Fragmentation Metrics as key criteron for allocation definition and alternate slot sequencing. 
 
 
