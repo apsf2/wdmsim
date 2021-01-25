@@ -30,7 +30,7 @@ Since Python does not implement threads with multiprocessing support, this softw
 
 # Usage and Options
 
-'''aforster@wdmsim: $ ./WDMsim.py --help
+```aforster@wdmsim: $ ./WDMsim.py --help
 WDMsim.py version 1.0
 Author: Antonio Forster <aforster@gmail.com>
 Usage:
@@ -50,7 +50,7 @@ Usage:
 -o	<FILE>	Excel CSV file with simulation data. Default is report.csv.
 
 aforster@wdmsim: $
-'''
+```
 
 
 # Available RSA Algorithms
